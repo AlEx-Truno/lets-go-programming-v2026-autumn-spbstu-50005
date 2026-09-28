@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var firstNum, secondNum float64
+	var firstNum, secondNum int
 	var operator string
 	var err error
 
